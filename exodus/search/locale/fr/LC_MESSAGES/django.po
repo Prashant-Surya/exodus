@@ -30,7 +30,7 @@ msgid "Application name"
 msgstr "Nom de l'application"
 
 #: templates/search_form.html:26
-msgid "Here you can search for an application using its name or handle"
+msgid "You can search for an application using its name or handle"
 msgstr "Vous pouvez rechercher une application par son nom ou son identifiant"
 
 #: templates/search_form.html:31 templates/search_form.html:58
